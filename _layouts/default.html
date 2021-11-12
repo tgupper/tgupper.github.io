@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        <img class="profile-image" src="{{ "/assets/img/profile.jpg" }}" alt="Profile" />
+        <h1>Tamara Gupper</h1>
+        <p class="view">PhD student in Social and Cultural Anthropology | Humanoid Robotics and AI | she/her</p>
+
+        <ul>
+            <li><a href="/">About</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/research">Research</a></li>
+            <li><a href="/projects">Projects</a></li>
+            <li><a href="/publications">Publications</a></li>
+            <li><a href="/conferences">Conferences</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+
+        <div class="footer">
+          <a href="https://twitter.com/tamara_gupper"><img class="social-icon" src="{{ "/assets/img/twitter.svg" }}" alt="Logo" /></a>
+          <a href="https://scholar.social/@tgupper"><img class="social-icon" src="{{ "/assets/img/mastodon.svg" }}" alt="Logo" /></a>
+          <a href="https://github.com/tgupper"><img class="social-icon" src="{{ "/assets/img/github.svg" }}" alt="Logo" /></a>
+          <p><small><a href="/imprint">Imprint</a> | Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </div>
+
+      </header>
+
+      <section>
+
+      {{ content }}
+
+      </section>
+
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
