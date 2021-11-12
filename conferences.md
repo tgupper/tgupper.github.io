@@ -6,7 +6,7 @@ layout: default
 
 ### Upcoming
 * **KI und Wir Convention**, Oct 2021
-  * *A Matter of Perspective – AI as an Understandable and Malleable Technology*,\ 
+  * *A Matter of Perspective – AI as an Understandable and Malleable Technology*, \ 
   * Panel: "Transdisziplinäre Perspektiven auf die KI-Forschung".
 
 ### Past
