@@ -5,5 +5,5 @@ plugins:
 permalink: pretty
 markdown: kramdown
 paginate: 3
-paginate_path: "/news/:num/"
+paginate_path: "/blog/:num/"
 date_format: "%b %-d, %Y"
