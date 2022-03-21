@@ -4,21 +4,21 @@ layout: default
 
 ## Imprint
 --------
-Legal Disclosure
+**Legal Disclosure**
 
-Information in accordance with section 5 TMG.
+Information in accordance with section 5 TMG.\
 Person responsible for content in accordance with 55 Abs. 2 RSt
 
-Tamara Gupper
-c/o Grosch Postflex #2198
-Emsdettener Str. 10
-48268 Greven
-Keine Pakete oder Päckchen – Annahme wird verweigert!
+Tamara Gupper \
+c/o Grosch Postflex #2198\
+Emsdettener Str. 10\
+48268 Greven\
+Keine Pakete oder Päckchen – Annahme wird verweigert!\
 
 E-Mail: tamara.gupper@posteo.de
 
 
-Disclaimer
+**Disclaimer**
 
 Accountability for content
 
