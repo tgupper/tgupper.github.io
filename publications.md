@@ -4,6 +4,9 @@ layout: default
 
 ## Publications
 
+### 2022
+* Senegal (MFDC/Casamance). **T.Gupper**, in *HIIK Conflict Barometer 2021*
+  
 ### 2021
 --------
 * 'Technology of Freedom' or 'Technology of Inequality' - Smartphones, Activism and the Digital Divide in Senegal. Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main. DOI: https://doi.org/10.21248/gups.62582 
