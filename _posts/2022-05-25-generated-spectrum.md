@@ -13,12 +13,12 @@ The code is very simple, you can find two versions of it on [my Github page](htt
 
 After generating a few pictures with this script, I chose the one I liked best:
 
-<img src="{{ "/assets/img/generated-spectrum.png" }}" />
+<img src="{{ "/assets/img/generated-spectrum.png" }}" alt="Generated image" />
 
 I then used this generated image as a template for an acrylic painting on a canvas measuring 150x100 cm. In order to get sharp white lines, the entire canvas was painted in white, then masking tape was added to get the squares, and then it was painted white once again. The next step was to paint all the squares according to the generated image. I had never used masking tape with acrylic paint before, so I was quite nervous before pulling the tape off. But it worked really well and seeing the sharp lines was very satisfying!
 
-<img src="{{ "/assets/img/generated-spectrum-progress.jpg" }}" />
+<img src="{{ "/assets/img/generated-spectrum-progress.jpg" }}" alt="Me pulling masking tape off the canvas"/>
 
 I really enjoyed the process of creating this generative piece of art, particularly because the art work has not only materialized as a file saved on my computer, but taken form as an actual painting which now decorates my living room. Can’t wait to get started with my next project!
 
-<img src="{{ "/assets/img/generated-spectrum-wall.jpg" }}" />
+<img src="{{ "/assets/img/generated-spectrum-wall.jpg" }}" alt="The finished painting on a wall" />

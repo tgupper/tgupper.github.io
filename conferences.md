@@ -5,18 +5,16 @@ layout: default
 ## Conferences & Talks
 
 ### Upcoming
-* **STS Conference Graz 2022**, May 2022
-  * *Addressing “the Other” in Man vs. Machine Matches – Aspects of Gender in the Development of Software for Humanoid Soccer Robots* \
-  Panel "Rethinking digitalization technologies through feminist approaches"
 * [**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), June 2022
   * Panel *Addressing the Humans behind AI and Robotics*
   * *Coding as a Methodological Approach for Researching Programming Practices*\
   Panel "Programming Anthropology: Coding and Culture in the Age of AI"
-* **EASST 2022**, July 2022
-  * "*Negotiating Imaginaries and Constraints in a Robot Soccer Grand Challenge*\ 
-  Panel "The creation and impact of robot visions as key element of technoscientific futures"
+
 
 ### Past
+* **STS Conference Graz 2022**, May 2022
+  * *Addressing “the Other” in Man vs. Machine Matches – Aspects of Gender in the Development of Software for Humanoid Soccer Robots* \
+  Panel "Rethinking digitalization technologies through feminist approaches"
 * **KI und Wir Convention**, October 2021
   * *A Matter of Perspective – AI as an Understandable and Malleable Technology* \
   Panel "Transdisziplinäre Perspektiven auf die KI-Forschung"
