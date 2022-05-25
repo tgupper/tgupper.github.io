@@ -10,7 +10,7 @@ First, I held a 40-minute lecture about robots, thematizing aspects of the robot
 
 After the lecture, the children were split in three groups and completed three different activities for 30 minutes each. As a first activity, I showed them the functioning of a soccer robot that I borrowed from the team I conduct research with. The children had many questions and particularly liked its motion to stand up automatically after falling down. If you are interested in soccer robots, check out the website of the [RoboCup](https://robocup.org/), or the youtube channel of the [Standard Platform League](https://www.youtube.com/channel/UCmJWzHyCuBs8zaQcJfw077g) to see Nao robots play!
 
-The second activity was to design a robot and build a “prototype” out of cardboard. The children first had to decide what their robot should be able to do, and then what components it would need to move, and to perceive and to interact with its environment in order to complete their task. The children got super creative and built very fancy and potentially very useful robots!
+The second activity was to design a robot and build a “prototype” out of cardboard. The children first had to decide what their robot should be able to do, and then what components it would need to move, and to perceive and to interact with its environment in order to complete their task. The children got super creative and built very fancy and potentially very useful robots! 
 
 And the third activity was to gain first programming experience with the game [“Code with Anna and Elsa”](https://studio.code.org/s/frozen). Programming is quite challenging, particularly if you do it for the first time – which is all the more a reason to start when you are young!
 
