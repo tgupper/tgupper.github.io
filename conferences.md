@@ -5,13 +5,24 @@ layout: default
 ## Conferences & Talks
 
 ### Upcoming
+* **NordiCHI 2022**, Aarhus, October 2022
+
+
+### Past
+
+* **Generationsgerechte Digitalisierung**, Tagung der Jungen Gesellschaft für Informatik und der Akademie für Politische Bildung Tutzing, August 2022
+  * *Der Digital Divide - Digitalisierung und Ungleichheiten*
+  * *Pflegeroboter - Können wir die "Pflegekrise" durch Technologie lösen?*
+  
+
+* **Summer School 2022**, scholar.social, July 2022
+  * *Representations of AI*
+  
 * [**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), June 2022
   * Panel *Addressing the Humans behind AI and Robotics*
   * *Coding as a Methodological Approach for Researching Programming Practices*\
   Panel "Programming Anthropology: Coding and Culture in the Age of AI"
 
-
-### Past
 * **STS Conference Graz 2022**, May 2022
   * *Addressing “the Other” in Man vs. Machine Matches – Aspects of Gender in the Development of Software for Humanoid Soccer Robots* \
   Panel "Rethinking digitalization technologies through feminist approaches"
