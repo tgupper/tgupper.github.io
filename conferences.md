@@ -6,6 +6,8 @@ layout: default
 
 ### Upcoming
 * **NordiCHI 2022**, Aarhus, October 2022
+  * *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork*\
+  Paper Session "Studies and Methods"
 
 
 ### Past
