@@ -10,7 +10,7 @@ Tamara Gupper \
 c/o Grosch Postflex #2198\
 Emsdettener Str. 10\
 48268 Greven\
-Keine Pakete oder Päckchen – Annahme wird verweigert!\
+Keine Pakete oder Päckchen – Annahme wird verweigert!
 
 E-Mail: tamara.gupper@posteo.de
 
