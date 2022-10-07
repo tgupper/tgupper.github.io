@@ -5,6 +5,7 @@ layout: default
 ## Publications
 
 ### 2022
+* Visible - Uncertain - Invisible: Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork. **T.Gupper** and F. Moerike. NordiCHI '22: Nordic Human-Computer Interaction Conference. DOI: [10.1145/3546155.3546674](https://doi.org/10.1145/3546155.3546674)
 * Senegal (MFDC/Casamance). **T.Gupper**, in *HIIK Conflict Barometer 2021*
   
 ### 2021
