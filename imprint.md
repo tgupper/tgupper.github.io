@@ -23,8 +23,9 @@ E-Mail: tamara.gupper@posteo.de
 
 1.2 The controller in charge of data processing on this website, within the meaning of the General Data Protection Regulation (GDPR), is Tamara Gupper, Tamara Gupper, c/o Grosch Postflex #2198 Emsdettener Str. 10, 48268 Greven, Deutschland, E-Mail: tamara.gupper@posteo.de. The controller in charge of the processing of personal data is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data.
 
-1.3 This website uses SSL or TLS encryption for security reasons and to protect the transmission of personal data and other confidential content (e.g. orders or inquiries to the controller). You can recognize an encrypted connection by the character string https:// and the lock symbol in your browser line.
-1) Data Collection When You Visit Our Website
+1.3 This website uses SSL or TLS encryption for security reasons and to protect the transmission of personal data and other confidential content (e.g. orders or inquiries to the controller). You can recognize an encrypted connection by the character string https:// and the lock symbol in your browser line.\
+
+2) Data Collection When You Visit Our Website
 
 When using our website for information only, i.e. if you do not register or otherwise provide us with information, we only collect data that your browser transmits to our server (so-called “server log files”). When you visit our website, we collect the following data that is technically necessary for us to display the website to you:
 
@@ -36,10 +37,12 @@ When using our website for information only, i.e. if you do not register or othe
 * Operating system used
 * IP address used (if applicable: in anonymized form)
 
-Data processing is carried out in accordance with Art. 6 (1) point f GDPR on the basis of our legitimate interest in improving the stability and functionality of our website. The data will not be passed on or used in any other way. However, we reserve the right to check the server log files subsequently, if there are any concrete indications of illegal use.
+Data processing is carried out in accordance with Art. 6 (1) point f GDPR on the basis of our legitimate interest in improving the stability and functionality of our website. The data will not be passed on or used in any other way. However, we reserve the right to check the server log files subsequently, if there are any concrete indications of illegal use.\
+
 3) Contacting Us
 
-When you contact us (e.g. via contact form or e-mail), personal data is collected. Which data is collected in the case of a contact form can be seen from the respective contact form. This data is stored and used exclusively for the purpose of responding to your request or for establishing contact and for the associated technical administration. The legal basis for processing data is our legitimate interest in responding to your request in accordance with Art. 6 (1) point f GDPR. If your contact is aimed at concluding a contract, the additional legal basis for the processing is Art. 6 (1) point b GDPR. Your data will be deleted after final processing of your enquiry; this is the case if it can be inferred from the circumstances that the facts in question have been finally clarified, provided there are no legal storage obligations to the contrary.
+When you contact us (e.g. via contact form or e-mail), personal data is collected. Which data is collected in the case of a contact form can be seen from the respective contact form. This data is stored and used exclusively for the purpose of responding to your request or for establishing contact and for the associated technical administration. The legal basis for processing data is our legitimate interest in responding to your request in accordance with Art. 6 (1) point f GDPR. If your contact is aimed at concluding a contract, the additional legal basis for the processing is Art. 6 (1) point b GDPR. Your data will be deleted after final processing of your enquiry; this is the case if it can be inferred from the circumstances that the facts in question have been finally clarified, provided there are no legal storage obligations to the contrary.\
+
 4) Rights of the Data Subject
 
 4.1 The applicable data protection law grants you the following comprehensive rights of data subjects (rights of information and intervention) vis-à-vis the data controller with regard to the processing of your personal data:
@@ -67,7 +70,8 @@ IF YOU EXERCISE YOUR RIGHT TO OBJECT, WE WILL STOP PROCESSING THE DATA CONCERNED
 
 IF WE PROCESS YOUR PERSONAL DATA FOR DIRECT MARKETING PURPOSES, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF YOUR PERSONAL DATA WHICH ARE USED FOR DIRECT MARKETING PURPOSES. YOU MAY EXERCISE THE OBJECTION AS DESCRIBED ABOVE.
 
-IF YOU EXERCISE YOUR RIGHT TO OBJECT, WE WILL STOP PROCESSING THE DATA CONCERNED FOR DIRECT ADVERTISING PURPOSES.
+IF YOU EXERCISE YOUR RIGHT TO OBJECT, WE WILL STOP PROCESSING THE DATA CONCERNED FOR DIRECT ADVERTISING PURPOSES.\
+
 5) Duration of Storage of Personal Data
 
 The duration of the storage of personal data is based on the respective legal basis, the purpose of processing and – if relevant – on the respective legal retention period (e.g. commercial and tax retention periods).
