@@ -6,9 +6,6 @@ layout: default
 --------
 **Imprint**
 
-
-Impressum/Imprint
-
 Tamara Gupper \
 c/o Grosch Postflex #2198\
 Emsdettener Str. 10\
@@ -19,7 +16,7 @@ E-Mail: tamara.gupper@posteo.de
 
 
 
-**Data Protection Declaration**
+**Data Protection Declaration** \
 1) Information on the Collection of Personal Data and Contact Details of the Controller
 
 1.1 We are pleased that you are visiting our website and thank you for your interest. On the following pages, we inform you about the handling of your personal data when using our website. Personal data is all data with which you can be personally identified.
@@ -31,13 +28,13 @@ E-Mail: tamara.gupper@posteo.de
 
 When using our website for information only, i.e. if you do not register or otherwise provide us with information, we only collect data that your browser transmits to our server (so-called “server log files”). When you visit our website, we collect the following data that is technically necessary for us to display the website to you:
 
-    Our visited website
-    Date and time at the moment of access
-    Amount of data sent in bytes
-    Source/reference from which you came to the page
-    Browser used
-    Operating system used
-    IP address used (if applicable: in anonymized form)
+* Our visited website
+* Date and time at the moment of access
+* Amount of data sent in bytes
+* Source/reference from which you came to the page
+* Browser used
+* Operating system used
+* IP address used (if applicable: in anonymized form)
 
 Data processing is carried out in accordance with Art. 6 (1) point f GDPR on the basis of our legitimate interest in improving the stability and functionality of our website. The data will not be passed on or used in any other way. However, we reserve the right to check the server log files subsequently, if there are any concrete indications of illegal use.
 3) Contacting Us
