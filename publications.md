@@ -10,7 +10,7 @@ layout: default
   
 ### 2021
 --------
-* 'Technology of Freedom' or 'Technology of Inequality' - Smartphones, Activism and the Digital Divide in Senegal. Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main. DOI: https://doi.org/10.21248/gups.62582 
+* 'Technology of Freedom' or 'Technology of Inequality' - Smartphones, Activism and the Digital Divide in Senegal. Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main. DOI: [10.21248/gups.62582](https://doi.org/10.21248/gups.62582) 
 * Ghana (HSGF et al./Western Togoland). **T.Gupper**, in *HIIK Conflict Barometer 2020*.
 
 
