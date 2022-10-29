@@ -5,12 +5,17 @@ layout: default
 ## Conferences & Talks
 
 ### Upcoming
-* **NordiCHI 2022**, Aarhus, October 2022
-  * *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork*\
-  Paper Session "Studies and Methods"
+* **GAA Conference 2023**, Munich, July 2023
+  * *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork*\
+  Roundtable, [Call for Papers](saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) open until December 15th! 
+  
 
 
 ### Past
+
+* **NordiCHI 2022**, Aarhus, October 2022
+  * *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork*\
+  Paper Session "Studies and Methods"
 
 * **Generationsgerechte Digitalisierung**, Tagung der Jungen Gesellschaft für Informatik und der Akademie für Politische Bildung Tutzing, August 2022
   * *Der Digital Divide - Digitalisierung und Ungleichheiten*
