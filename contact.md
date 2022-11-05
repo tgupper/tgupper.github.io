@@ -12,7 +12,7 @@ Frankfurt am Main
 Germany  
 
 tamara.gupper[at]posteo.de  
-tamaragupper.com
+tamaragupper.de
 
 [Twitter](https://twitter.com/tamara_gupper) \
 [Mastodon](https://scholar.social/web/@tgupper) \
