@@ -5,6 +5,7 @@ layout: default
 ## Conferences & Talks
 
 ### Upcoming
+--------
 * **GAA Conference 2023**, Munich, July 2023
   * *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork*\
   Roundtable, [Call for Papers](saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) open until December 15th! 
@@ -12,6 +13,7 @@ layout: default
 
 
 ### Organized Panels and Roundtables
+--------
 * [**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, June 2022
   * Panel *Addressing the Humans behind AI and Robotics*
 
@@ -21,6 +23,7 @@ layout: default
 
 
 ### Presentations at Conferences
+--------
 * [**NordiCHI 2022**](https://conferences.au.dk/nordichi2022/), Aarhus, October 2022
   * *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork*\
   Paper Session "Studies and Methods"
@@ -50,6 +53,7 @@ layout: default
 
 
 ### Invited Talks and Guest Lectures
+--------
 * **Alumni Day 2021**, ANEF (Alumni-Netzwerk des Instituts für Ethnologie der Goethe-Universität Frankfurt), October 2021
   * Panel Discussion on the topic *Digital Natives*
   
@@ -59,6 +63,7 @@ layout: default
 
 
 ### Presentations at Popular Scientific Events
+--------
 * **Generationsgerechte Digitalisierung**, Tagung der Jungen Gesellschaft für Informatik und der Akademie für Politische Bildung Tutzing, August 2022
   * *Der Digital Divide - Digitalisierung und Ungleichheiten*
   * *Pflegeroboter - Können wir die "Pflegekrise" durch Technologie lösen?*
