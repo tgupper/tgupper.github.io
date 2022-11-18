@@ -22,30 +22,24 @@ layout: default
 --------
 
 #### 2022 
---------
 * Senegal (MFDC/Casamance). **T.Gupper**, in *HIIK Conflict Barometer 2021*
   
 #### 2021
---------
 * Ghana (HSGF et al./Western Togoland). **T.Gupper**, in *HIIK Conflict Barometer 2020*.
   
 #### 2020
---------
 * Indonesia (Islamist militant groups). **T. Gupper**, in *HIIK Conflict Barometer 2019*.
 * Philippines (Islamist militant groups). **T. Gupper**, in *HIIK Conflict Barometer 2019*.
 
 #### 2019
---------
 
 * Indonesia (Islamist militant groups). **T. Gupper**, in *HIIK Conflict Barometer 2018*.
 * Philippines (Islamist militant groups). **T. Gupper**, in *HIIK Conflict Barometer 2018*.
 
 #### 2018
---------
 * Indonesia (Islamist militant groups). **T. Gupper**, in *HIIK Conflict Barometer 2017*.
 * Philippines (Islamist militant groups). **T. Gupper**, in *HIIK Conflict Barometer 2017*.
 
 
 #### 2017
---------
 * Indonesia (Islamist militant groups). **T. Gupper**, in *HIIK Conflict Barometer 2016*.
