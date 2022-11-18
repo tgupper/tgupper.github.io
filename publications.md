@@ -19,7 +19,7 @@ layout: default
 * Islamism online - The use of Social Media by Radical Islamists in Indonesia. **T. Gupper**, in *HIIK Conflict Barometer 2018*, 25-26.
 
 ### Conflict Research Reports
---------\
+--------
 
 at [Heidelberg Institute for International Conflict Research (HIIK)](https://hiik.de/)
 
