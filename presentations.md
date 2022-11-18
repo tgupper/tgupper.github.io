@@ -6,7 +6,7 @@ layout: default
 
 ### Upcoming
 --------
-* **GAA Conference 2023**, Munich, July 2023
+* **GAA Conference 2023**, LMU Munich, July 2023
   * *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork*\
   Roundtable, [Call for Papers](saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) open until December 15th! 
   
@@ -69,7 +69,7 @@ layout: default
   * *Pflegeroboter - Können wir die "Pflegekrise" durch Technologie lösen?*
  
 * [**Summer School 2022**](https://summerschool.scholar.social/), organized by members of the Mastodon instance scholar.social, July 2022
-  * *Representations of AI*
+  * *Representations of AI. Why we need to do better*
 
 * [**Children's University, Familienakademie**](https://www.wng-hanau.de/gemeindeleben/rueckblick/2181-kinderuni-wie-funktionieren-eigentlich-roboter), Kathinka Platzhoff Stiftung, April 2022
   * *Wie funktionieren eigentlich Roboter*; for more information see my blog post [here](https://tamaragupper.de/blog/)
