@@ -4,7 +4,7 @@ title: "Lecture at the Children's University"
 categories: [general]
 tags: []
 ---
-Last weekend I was invited as a speaker at the children’s university organized by the Familienakademie of the Kathinka-Platzhoff-Stiftung. The topic was [“Wie funktionieren eigentlich Roboter?](https://kp-familienakademie.de/41-highlights/87-nachbericht-kinderuni.html)” [How do robots actually work?] and children between 8 and 12 came to participate. I was quite nervous whether the children would like what I had prepared - but it went really well!
+Last weekend I was invited as a speaker at the children’s university organized by the Familienakademie of the Kathinka-Platzhoff-Stiftung. The topic was [“Wie funktionieren eigentlich Roboter?](https://www.wng-hanau.de/gemeindeleben/rueckblick/2181-kinderuni-wie-funktionieren-eigentlich-roboter)” [How do robots actually work?] and children between 8 and 12 came to participate. I was quite nervous whether the children would like what I had prepared - but it went really well!
 
 First, I held a 40-minute lecture about robots, thematizing aspects of the robots’ hardware, their software and the ways robots are already used nowadays. One of my main points was that robots are not magical or living beings, but objects that are built out of specific technical components and need to be programmed by people in order to function. Also, I thematized that the way robots are portrayed in fiction is not equivalent with how they are being used nowadays, or how we will live with them in the future. Rather, it is important to understand the basics of robotics for a productive debate on how we want to shape our future with these objects.
 

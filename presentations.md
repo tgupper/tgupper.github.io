@@ -19,6 +19,7 @@ layout: default
   * Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with Dr. Roos Keja
 
 
+
 ### Presentations at Conferences
 * [**NordiCHI 2022**](https://conferences.au.dk/nordichi2022/), Aarhus, October 2022
   * *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork*\
