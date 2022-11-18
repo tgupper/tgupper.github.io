@@ -66,7 +66,7 @@ layout: default
 * [**Summer School 2022**](https://summerschool.scholar.social/), organized by members of the Mastodon instance scholar.social, July 2022
   * *Representations of AI*
 
-* [**Children's University, Familienakadmie**](https://www.wng-hanau.de/gemeindeleben/rueckblick/2181-kinderuni-wie-funktionieren-eigentlich-roboter), Kathinka Platzhoff Stiftung, April 2022
+* [**Children's University, Familienakademie**](https://www.wng-hanau.de/gemeindeleben/rueckblick/2181-kinderuni-wie-funktionieren-eigentlich-roboter), Kathinka Platzhoff Stiftung, April 2022
   * *Wie funktionieren eigentlich Roboter*; for more information see my blog post [here](https://tamaragupper.de/blog/)
 
 * [**Summer School 2021**](https://summerschool.scholar.social/), organized by members of the Mastodon instance scholar.social, August 2021
