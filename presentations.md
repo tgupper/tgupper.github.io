@@ -7,7 +7,7 @@ layout: default
 ### Upcoming
 --------
 **GAA Conference 2023**, LMU Munich, July 2023 \
-Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork*\
+Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](saferfieldworkproject.de) \
 [Call for Papers](https://saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) open until December 15th! 
   
 
