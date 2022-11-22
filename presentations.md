@@ -40,9 +40,10 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 *Computeranwendungen in der Ethnologie - Für eine Diskussion der möglichen Konsequenzen nicht sichtbarer Abläufe* in the panel "Digitalität in der ethnographischen Praxis. Kommunikationsmedien, Forschungsdaten, Software"
 
 [**GAA Conference 2019**](https://www.dgska.de/tagungen/dgska-tagung-2019/), University of Konstanz, October 2019 \
-*Political activists’ use of smartphones: The role of smartphones in the process of (re-)negotiating political issues in Senegal* in the panel "Making things political: Political anthropology meets STS in the Global South" \
-*Anonymization in the university curriculum: Are future anthropologists being prepared for the ethical and methodological aspects of anonymization?* at the roundtable "(Re-)negotiating anonymity in ethnographic research"
+*Political activists’ use of smartphones: The role of smartphones in the process of (re-)negotiating political issues in Senegal* in the panel "Making things political: Political anthropology meets STS in the Global South" 
 
+[**GAA Conference 2019**](https://www.dgska.de/tagungen/dgska-tagung-2019/), University of Konstanz, October 2019 \
+*Anonymization in the university curriculum: Are future anthropologists being prepared for the ethical and methodological aspects of anonymization?* at the roundtable "(Re-)negotiating anonymity in ethnographic research"
 
 
 ### Invited Talks and Guest Lectures
