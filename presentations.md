@@ -7,30 +7,28 @@ layout: default
 ### Upcoming
 --------
 **GAA Conference 2023**, LMU Munich, July 2023 \
-Roundtable titled *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork*\
+Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork*\
 [Call for Papers](https://saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) open until December 15th! 
   
 
 
 ### Organized Panels and Roundtables
 --------
-* [**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, June 2022
-  * Panel *Addressing the Humans behind AI and Robotics*
+[**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, June 2022 \
+Panel *Addressing the Humans behind AI and Robotics* \\
 
-* [**Africa Challenges**](https://vad-africachallenges.de/panel/p-18-the-impact-of-mobile-technologies-on-social-structures-in-africa/), Conference of the Vereinigung für Afrikawissenschaften in Deutschland, June 2021
-  * Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with Dr. Roos Keja
+[**Africa Challenges**](https://vad-africachallenges.de/panel/p-18-the-impact-of-mobile-technologies-on-social-structures-in-africa/), Conference of the Vereinigung für Afrikawissenschaften in Deutschland, June 2021 \
+Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with Dr. Roos Keja
 
 
 
 ### Presentations at Conferences
 --------
-* [**NordiCHI 2022**](https://conferences.au.dk/nordichi2022/), Aarhus, October 2022
-  * *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork*\
-  Paper Session "Studies and Methods"
+[**NordiCHI 2022**](https://conferences.au.dk/nordichi2022/), Aarhus, October 2022 \
+*Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork* in the Paper Session "Studies and Methods" \\
 
-* [**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, June 2022
-  * *Coding as a Methodological Approach for Researching Programming Practices*\
-  Panel "Programming Anthropology: Coding and Culture in the Age of AI"
+[**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, June 2022 \
+*Coding as a Methodological Approach for Researching Programming Practices* in the panel "Programming Anthropology: Coding and Culture in the Age of AI"
 
 * [**STS Conference Graz 2022**](https://stsconf.tugraz.at/), May 2022
   * *Addressing “the Other” in Man vs. Machine Matches – Aspects of Gender in the Development of Software for Humanoid Soccer Robots* \
