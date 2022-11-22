@@ -6,18 +6,18 @@ layout: default
 
 ### Upcoming
 --------
-**GAA Conference 2023**, LMU Munich, July 2023 \
-Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](saferfieldworkproject.de) \
+**Umstrittenes Wissen/ Contested Knowledge: Ethnologische Perspektiven**, Conference of the German Anthropological Association, Munich, July 2023 \
+Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](https://saferfieldworkproject.de) \
 [Call for Papers](https://saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) open until December 15th! 
   
 
 
 ### Organized Panels and Roundtables
 --------
-[**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, June 2022 \
+[**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, online, June 2022 \
 Panel *Addressing the Humans behind AI and Robotics*
 
-[**Africa Challenges**](https://vad-africachallenges.de/panel/p-18-the-impact-of-mobile-technologies-on-social-structures-in-africa/), Conference of the Vereinigung für Afrikawissenschaften in Deutschland, June 2021 \
+[**Africa Challenges**](https://vad-africachallenges.de/panel/p-18-the-impact-of-mobile-technologies-on-social-structures-in-africa/), Conference of the Vereinigung für Afrikawissenschaften in Deutschland, online, June 2021 \
 Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with Dr. Roos Keja
 
 
@@ -27,22 +27,22 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 [**NordiCHI 2022**](https://conferences.au.dk/nordichi2022/), Aarhus, October 2022 \
 *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork* in the Paper Session "Studies and Methods"
 
-[**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, June 2022 \
+[**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, online, June 2022 \
 *Coding as a Methodological Approach for Researching Programming Practices* in the panel "Programming Anthropology: Coding and Culture in the Age of AI"
 
-[**STS Conference Graz 2022**](https://stsconf.tugraz.at/), May 2022 \
+[**STS Conference Graz 2022**](https://stsconf.tugraz.at/), Graz, May 2022 \
 *Addressing “the Other” in Man vs. Machine Matches – Aspects of Gender in the Development of Software for Humanoid Soccer Robots* in the panel "Rethinking digitalization technologies through feminist approaches"
 
-[**KI und Wir Convention**](https://ki-convention.com/), October 2021 \
+[**KI und Wir Convention**](https://ki-convention.com/), online, October 2021 \
 *A Matter of Perspective – AI as an Understandable and Malleable Technology* in the panel "Transdisziplinäre Perspektiven auf die KI-Forschung"
 
-[**GAA Conference 2021**](https://www.dgska.de/tagungen/dgska-tagung-2021/), University of Bremen, September 2021 \
+[**Welten. Zonen. Atmosphären. Seismographien des Anthropozäns**](https://www.dgska.de/tagungen/dgska-tagung-2021/), Conference of the German Anthropological Association, Bremen, September 2021 \
 *Computeranwendungen in der Ethnologie - Für eine Diskussion der möglichen Konsequenzen nicht sichtbarer Abläufe* in the panel "Digitalität in der ethnographischen Praxis. Kommunikationsmedien, Forschungsdaten, Software"
 
-[**GAA Conference 2019**](https://www.dgska.de/tagungen/dgska-tagung-2019/), University of Konstanz, October 2019 \
+[**Das Ende der Aushandlungen?**](https://www.dgska.de/tagungen/dgska-tagung-2019/), Conference of the German Anthropological Association, Konstanz, October 2019 \
 *Political activists’ use of smartphones: The role of smartphones in the process of (re-)negotiating political issues in Senegal* in the panel "Making things political: Political anthropology meets STS in the Global South" 
 
-[**GAA Conference 2019**](https://www.dgska.de/tagungen/dgska-tagung-2019/), University of Konstanz, October 2019 \
+[**Das Ende der Aushandlungen?**](https://www.dgska.de/tagungen/dgska-tagung-2019/), Conference of the German Anthropological Association, Konstanz, October 2019 \
 *Anonymization in the university curriculum: Are future anthropologists being prepared for the ethical and methodological aspects of anonymization?* at the roundtable "(Re-)negotiating anonymity in ethnographic research"
 
 
@@ -51,22 +51,22 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 **Alumni Day 2021**, ANEF (Alumni-Netzwerk des Instituts für Ethnologie der Goethe-Universität Frankfurt), October 2021 \
 Discussant in the panel discussion *Digital Natives*
   
-**Africa Colloquium**, Goethe University Frankfurt am Main, February 2020 \
+**Africa Colloquium**, Department for Social and Cultural Anthropology, Goethe University Frankfurt am Main, February 2020 \
 *"Tout ce que je fais, c’est avec mon smartphone" - Wie senegalesische Aktivist\*innen ihre Smartphones im Rahmen ihres Engagements nutzen*
 
 
 
 ### Presentations at Popular Scientific Events
 --------
-**Generationsgerechte Digitalisierung**, Tagung der Jungen Gesellschaft für Informatik und der Akademie für Politische Bildung Tutzing, August 2022 \
+**Generationsgerechte Digitalisierung**, Tagung der Jungen Gesellschaft für Informatik und der Akademie für Politische Bildung, Tutzing, August 2022 \
 *Der Digital Divide - Digitalisierung und Ungleichheiten* \
 *Pflegeroboter - Können wir die "Pflegekrise" durch Technologie lösen?*
  
-[**Summer School 2022**](https://summerschool.scholar.social/), organized by members of the Mastodon instance scholar.social, July 2022 \
+[**Summer School 2022**](https://summerschool.scholar.social/), organized by members of the Mastodon instance scholar.social, online, July 2022 \
 *Representations of AI. Why we need to do better*
 
-[**Children's University, Familienakademie**](https://www.wng-hanau.de/gemeindeleben/rueckblick/2181-kinderuni-wie-funktionieren-eigentlich-roboter), Kathinka Platzhoff Stiftung, April 2022 \
+[**Children's University, Familienakademie**](https://www.wng-hanau.de/gemeindeleben/rueckblick/2181-kinderuni-wie-funktionieren-eigentlich-roboter), Kathinka Platzhoff Stiftung, Hanau, April 2022 \
 *Wie funktionieren eigentlich Roboter*; for more information see my blog post [here](https://tamaragupper.de/blog/)
 
-[**Summer School 2021**](https://summerschool.scholar.social/), organized by members of the Mastodon instance scholar.social, August 2021 \
+[**Summer School 2021**](https://summerschool.scholar.social/), organized by members of the Mastodon instance scholar.social, online, August 2021 \
 *On Artificial Intelligence*
