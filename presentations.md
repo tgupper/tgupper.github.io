@@ -56,7 +56,7 @@ Discussant in the panel discussion *Digital Natives*
 *"Tout ce que je fais, c’est avec mon smartphone" - Wie senegalesische Aktivist\*innen ihre Smartphones im Rahmen ihres Engagements nutzen*
 
 
-
+--------
 ### Presentations at Popular Scientific Events
 --------
 **Generationsgerechte Digitalisierung**, Tagung der Jungen Gesellschaft für Informatik und der Akademie für Politische Bildung, Tutzing, August 2022 \

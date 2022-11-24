@@ -12,7 +12,7 @@ Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible.”
 --------  
 ### Master Thesis
 --------
-Gupper, Tamara. 2021. 'Technology of Freedom' or 'Technology of Inequality'? Smartphones, Activism, and the Digital Divide in Senegal. Frankfurt am Main: Universitätsbibliothek Johann Christian Senckenberg. DOI: [10.21248/gups.62582](https://doi.org/10.21248/gups.62582).
+Gupper, Tamara. 2021. "'Technology of Freedom' or 'Technology of Inequality'? Smartphones, Activism, and the Digital Divide in Senegal." Frankfurt am Main: Universitätsbibliothek Johann Christian Senckenberg. DOI: [10.21248/gups.62582](https://doi.org/10.21248/gups.62582).
 
 --------
 ### Published Essays
