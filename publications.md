@@ -38,8 +38,8 @@ Gupper, Tamara. 2022. “Senegal (MFDC/Casamance).” Conflict Barometer 2021 (3
 Gupper, Tamara. 2021. “Ghana (HSGF Et Al./Western Togoland.” Conflict Barometer 2020 (29): 91.
   
 #### 2020
-Gupper, Tamara. 2020. “Indonesia (Islamist Militant Groups).” Conflict Barometer 2019 (29): 141. \
-Gupper, Tamara. 2020. “Philippines (Islamist Militant Groups).” Conflict Barometer 2019 (29): 152.
+Gupper, Tamara. 2020. “Indonesia (Islamist Militant Groups).” Conflict Barometer 2019 (28): 141. \
+Gupper, Tamara. 2020. “Philippines (Islamist Militant Groups).” Conflict Barometer 2019 (28): 152.
 
 #### 2019
 
