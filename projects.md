@@ -10,7 +10,7 @@ The project I currently work on most extensively is my Ph.D. on the programming 
 
 ### Studying Computer Science
 I started studying computer science in the spring of 2020. Because my Ph.D. project explores a topic located in computer science from an anthropological point of view, learning about the theoretical, mathematical, and practical foundations of this discipline has been incredibly useful to understand my research field. 
-Additionally, learning something completely different from the things I had engaged in studying cultural anthropology has been inspiring for me. I have discovered my passion for mathematics and theoretical computer science – even if only after a rather rough start. I am also particularly interested in the intersections between hardware and software, such as process control or memory allocation.
+Additionally, learning something completely different from the things I had engaged in studying cultural anthropology has been inspiring for me. I have discovered my passion for mathematics and theoretical computer science. I am also particularly interested in the intersections between hardware and software, such as process control or memory allocation.
 
 ### The Safer Fieldwork Project
 In May 2021, two colleagues and I co-founded an initiative on safety in (ethnographic) fieldwork that I am very passionate about. We have held workshops on the topic at several universities for participants at very different stages of their careers and with varying disciplinary backgrounds. In July 2023, we will also hold a roundtable at the Conference of the [German Anthropological Association]( https://www.dgska.de/). For more information, have a look at the [Safer Fieldwork Project website](https://saferfieldworkproject.de).
