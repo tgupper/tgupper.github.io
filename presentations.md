@@ -4,7 +4,8 @@ layout: default
 
 ## Conferences & Talks
 
---------
+<br/>
+
 ### Upcoming
 --------
 **Umstrittenes Wissen/ Contested Knowledge: Ethnologische Perspektiven**, Conference of the German Anthropological Association, Munich, July 2023 \
@@ -12,7 +13,8 @@ Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being i
 [Call for Papers](https://saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) open until December 15th! 
   
 
---------
+<br/>
+
 ### Organized Panels and Roundtables
 --------
 [**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, online, June 2022 \
@@ -21,8 +23,8 @@ Panel *Addressing the Humans behind AI and Robotics*
 [**Africa Challenges**](https://vad-africachallenges.de/panel/p-18-the-impact-of-mobile-technologies-on-social-structures-in-africa/), Conference of the Vereinigung für Afrikawissenschaften in Deutschland, online, June 2021 \
 Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with Dr. Roos Keja
 
+<br/>
 
---------
 ### Presentations at Conferences
 --------
 [**NordiCHI 2022**](https://conferences.au.dk/nordichi2022/), Aarhus, October 2022 \
@@ -46,7 +48,8 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 [**Das Ende der Aushandlungen?**](https://www.dgska.de/tagungen/dgska-tagung-2019/), Conference of the German Anthropological Association, Konstanz, October 2019 \
 *Anonymization in the university curriculum: Are future anthropologists being prepared for the ethical and methodological aspects of anonymization?* at the roundtable "(Re-)negotiating anonymity in ethnographic research"
 
---------
+<br/>
+
 ### Invited Talks and Guest Lectures
 --------
 **Alumni Day 2021**, ANEF (Alumni-Netzwerk des Instituts für Ethnologie der Goethe-Universität Frankfurt), October 2021 \
@@ -56,7 +59,8 @@ Discussant in the panel discussion *Digital Natives*
 *"Tout ce que je fais, c’est avec mon smartphone" - Wie senegalesische Aktivist\*innen ihre Smartphones im Rahmen ihres Engagements nutzen*
 
 
---------
+<br/>
+
 ### Presentations at Popular Scientific Events
 --------
 **Generationsgerechte Digitalisierung**, Tagung der Jungen Gesellschaft für Informatik und der Akademie für Politische Bildung, Tutzing, August 2022 \

@@ -2,11 +2,7 @@
 layout: default
 ---
 
-## Welcome to my website!
-
-
-
-Hello everyone!
+## Hello everyone!
 
 My name is Tamara Gupper and I am a PhD researcher in Social and Cultural Anthropology at Goethe University Frankfurt am Main. I am a doctoral fellow at [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/).
 
