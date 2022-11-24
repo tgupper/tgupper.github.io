@@ -6,7 +6,7 @@ layout: default
 
 ### Teaching Robots to Play Soccer
 
-#### On Human-Technology Relations in the Development of Software for Humanoid Robots*
+#### On Human-Technology Relations in the Development of Software for Humanoid Robots
 
 The development of humanoid robots equipped with artificial intelligence able to exceed human capabilities has been depicted as an intangible, irrevocably progressing force with a set end state in both utopian and dystopian accounts, in fiction as well as in theoretical treatises. I argue that this depiction, by disguising the actual processes that take place in computer science labs, significantly restricts a thorough societal discourse on how we want the development of such software to proceed. In order to empower a broader and more focused public debate on the topic, this PhD project has the goal of describing and analyzing these processes, as well as the human-technology relations on which they are based, in a team of computer scientists who program humanoid robots to play soccer.
 

@@ -4,22 +4,28 @@ layout: default
 
 ## Publications
 
---------  
+<br/>
+
 ### Conference Proceedings (peer-reviewed)
 --------
 Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible.” In Nordic Human-Computer Interaction Conference. New York, NY, USA: ACM. 1–9. DOI: [10.1145/3546155.3546674](https://doi.org/10.1145/3546155.3546674)
 
---------  
+
+<br/>
+
 ### Master Thesis
 --------
 Gupper, Tamara. 2021. "'Technology of Freedom' or 'Technology of Inequality'? Smartphones, Activism, and the Digital Divide in Senegal." Frankfurt am Main: Universitätsbibliothek Johann Christian Senckenberg. DOI: [10.21248/gups.62582](https://doi.org/10.21248/gups.62582).
 
---------
+
+<br/>
+
 ### Published Essays
 --------
 Gupper, Tamara. 2019. “Islamism Online: The Use of Social Media by Radical Islamists in Indonesia.” Conflict Barometer 2018 (27): 25–26.
 
---------
+<br/>
+
 ### Conflict Research Reports
 --------
 
