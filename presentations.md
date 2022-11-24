@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## Conferences & Talks
+--------
 
-<br/>
 
 ### Upcoming
 --------

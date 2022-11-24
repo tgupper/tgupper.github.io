@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Research
+--------
 
 ### Teaching Robots to Play Soccer
 

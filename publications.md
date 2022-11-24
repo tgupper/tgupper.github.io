@@ -3,8 +3,7 @@ layout: default
 ---
 
 ## Publications
-
-<br/>
+--------
 
 ### Conference Proceedings (peer-reviewed)
 --------
