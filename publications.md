@@ -7,7 +7,7 @@ layout: default
 
 ### Conference Proceedings (peer-reviewed)
 --------
-Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible.” In Nordic Human-Computer Interaction Conference. New York, NY, USA: ACM. 1–9. DOI: [10.1145/3546155.3546674](https://doi.org/10.1145/3546155.3546674)
+Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible: Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork.” In Nordic Human-Computer Interaction Conference. New York, NY, USA: ACM. 1–9. DOI: [10.1145/3546155.3546674](https://doi.org/10.1145/3546155.3546674)
 
 
 <br/>
