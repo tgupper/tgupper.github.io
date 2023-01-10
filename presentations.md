@@ -9,10 +9,10 @@ layout: default
 ### Upcoming
 --------
 
-[**stshub**](https://sts-hub.de/), Aachen, March 2023
-
 [**Relations and beyond**](http://www.antropologinenseura.fi/en/anthropology-conference-2023/), Conference of the Finnish Anthropological Society, Rovaniemi, March 2023 \
 *Human-Technology Relations in Coding Processes: Using Postphenomenology to Analyze Algorithmic Systems* in the panel "Algorithmic (re)configurations"
+
+[**stshub**](https://sts-hub.de/), Aachen, March 2023
 
 [**KI Camp 2023**](https://kicamp.org/en/about), Berlin and online, March and April 2023
 
