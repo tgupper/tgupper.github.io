@@ -18,7 +18,7 @@ layout: default
 
 **Umstrittenes Wissen/ Contested Knowledge: Ethnologische Perspektiven**, Conference of the German Anthropological Association, Munich, July 2023 \
 Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](https://saferfieldworkproject.de) \
-See the [Call for Papers](https://saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf)for more information!
+See the [Call for Papers](https://saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) for more information!
   
 
 <br/>
