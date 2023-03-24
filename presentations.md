@@ -31,11 +31,11 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 ### Presentations at Conferences
 --------
 
-[**stshub**](https://sts-hub.de/), Aachen, March 2023 \
-*Testing to Circulate. Addressing the Epistemic Gaps of Software Testing* in the panel "Testing as a research object in STS. Transdisciplinary perspectives on testal translation chains", with five other members of the [Code Ethnography Collective](https://codeethnographycollective-ceco.github.io/)
-
 [**Relations and beyond**](http://www.antropologinenseura.fi/en/anthropology-conference-2023/), Conference of the Finnish Anthropological Society, Rovaniemi, March 2023 \
 *Human-Technology Relations in Coding Processes: Using Postphenomenology to Analyze Algorithmic Systems* in the panel "Algorithmic (re)configurations"
+
+[**stshub**](https://sts-hub.de/), Aachen, March 2023 \
+*Testing to Circulate. Addressing the Epistemic Gaps of Software Testing* in the panel "Testing as a research object in STS. Transdisciplinary perspectives on testal translation chains", with Anja Klein, Libuše Hannah Vepřek, Mace Ojala, Rebecca Carlson and Sarah Thanner, members of the [Code Ethnography Collective](https://codeethnographycollective-ceco.github.io/)
 
 [**NordiCHI 2022**](https://conferences.au.dk/nordichi2022/), Aarhus, October 2022 \
 *Visible - Uncertain - Invisible. Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork* in the Paper Session "Studies and Methods"
