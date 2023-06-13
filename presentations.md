@@ -10,7 +10,7 @@ layout: default
 --------
 
 **Umstrittenes Wissen/ Contested Knowledge: Ethnologische Perspektiven**, Conference of the German Anthropological Association, Munich, July 2023 \
-Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](https://saferfieldworkproject.de) \
+Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](https://saferfieldworkproject.de) 
 
 [**MEGA Seminar 2023**](https://samf.nemtilmeld.dk/84/), Department of Anthropology, University of Copenhagen, Sønderborg, August 2023 \
 *Collaborating on 'Good' Data in a Competitive Research Environment* in the panel "Good data / Data for good?"
