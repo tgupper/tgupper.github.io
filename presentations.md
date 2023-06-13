@@ -9,11 +9,12 @@ layout: default
 ### Upcoming
 --------
 
-[**KI Camp 2023**](https://kicamp.org/en/about), Berlin and online, March and April 2023
-
 **Umstrittenes Wissen/ Contested Knowledge: Ethnologische Perspektiven**, Conference of the German Anthropological Association, Munich, July 2023 \
 Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](https://saferfieldworkproject.de) \
 See the [Call for Papers](https://saferfieldworkproject.de/wp-content/uploads/2022/09/GAA-2023_Roundtable50.pdf) for more information!
+
+[**MEGA Seminar 2023**](https://samf.nemtilmeld.dk/84/), Department of Anthropology, University of Copenhagen, Sønderborg, August 2023 \
+*Collaborating on 'Good' Data in a Competitive Research Environment*in the panel "Good data / Data for good?"
   
 
 <br/>
@@ -30,6 +31,11 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 
 ### Presentations at Conferences
 --------
+
+**Promovierendenforum der Studienstiftung des Deutschen Volkes**, Berlin, April 2023 \
+*Künstliche Wesen. Konzepte von Natur und Kultur in Narrativen rund um KI und humanoide Robotik*
+
+[**KI Camp 2023**](https://kicamp.org/en/about), Berlin and online, March and April 2023
 
 [**Relations and beyond**](http://www.antropologinenseura.fi/en/anthropology-conference-2023/), Conference of the Finnish Anthropological Society, Rovaniemi, March 2023 \
 *Human-Technology Relations in Coding Processes: Using Postphenomenology to Analyze Algorithmic Systems* in the panel "Algorithmic (re)configurations"
@@ -62,6 +68,12 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 
 ### Invited Talks and Guest Lectures
 --------
+[**Research Network for the Anthropology of Technology (Antech)**](https://projects.au.dk/antech/), Aarhus University, May 2023 \
+*On Human-Technology Relations in the Development of Software for Humanoid Robots*
+
+[**Organization and Economy Researcher Group (OREO)**](https://anthropology.ku.dk/research/researchgroups/organisation-and-economy/), Department of Anthropology, University of Copenhagen, May 2023 \
+*The Materialization of Social Structures in Software*
+
 **Alumni Day 2021**, ANEF (Alumni-Netzwerk des Instituts für Ethnologie der Goethe-Universität Frankfurt), October 2021 \
 Discussant in the panel discussion *Digital Natives*
   
