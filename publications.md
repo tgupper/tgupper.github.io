@@ -14,7 +14,7 @@ Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible: Re
 
 ### Academic Blog Posts
 --------
-Bosbach, Christina, Tamara Gupper, Saskia Jaschek, Kira Kreft, Artemis Saleh, and Laura Thurmann. “Trading Safety for Knowledge? Perspectives on Risks and Well-Being in Fieldwork.” In Boasblogs. [https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/](https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/). Accessed July 22, 2023.
+Bosbach, Christina, Tamara Gupper, Saskia Jaschek, Kira Kreft, Artemis Saleh, and Laura Thurmann. 2023. “Trading Safety for Knowledge? Perspectives on Risks and Well-Being in Fieldwork.” Boasblogs. [https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/](https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/).
 
 <br/>
 
