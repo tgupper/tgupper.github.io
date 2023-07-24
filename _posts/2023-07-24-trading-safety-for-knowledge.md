@@ -8,9 +8,7 @@ tags: []
 
 As co-leader of [The Safer Fieldwork Project](https://saferfieldworkproject.de), I will be moderating a roundtable on risks and well-being in fieldwork at the [Conference of the German Anthropological Association](https://tagung.dgska.de/) this Thursday (July 27th). Together with the speakers, we wrote an article with first impressions of what we want to discuss there, so have a look at our [publication on boasblogs]( https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/) if you are interested to learn more. 
 
-Raising awareness of the importance of fieldwork safety is incredibly meaningful to me. I firmly believe that distancing ourselves from hero myths of the lone researcher venturing into particularly risky fields and enduring hardship as a sign of commitment to academia would benefit Social and Cultural Anthropology and related disciplines in various respects. 
-
-At The Safer Fieldwork Project, we argue that researcher safety should be considered an integral part of research preparation and practice throughout the project (see the position paper of The Safer Fieldwork Project, forthcoming). We argue that this is beneficial for the researcher themselves, as well as for their project.
+Raising awareness of the importance of fieldwork safety is incredibly meaningful to me. At The Safer Fieldwork Project, we argue that researcher safety should be considered an integral part of research preparation and practice throughout the project (see the position paper of The Safer Fieldwork Project, forthcoming). We argue that this is beneficial for the researcher themselves, as well as for their project.
 
 In recent years, more and more academics have started to make the personal consequences of traumatic experiences during fieldwork a topic. These accounts show that such incidents are not isolated and that the negative impact on the person's physical and/or emotional well-being can outlive the research project for years.
 
