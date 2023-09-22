@@ -6,20 +6,15 @@ layout: default
 --------
 
 
-### Upcoming
---------
-
-**Umstrittenes Wissen/ Contested Knowledge: Ethnologische Perspektiven**, Conference of the German Anthropological Association, Munich, July 2023 \
-Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](https://saferfieldworkproject.de) 
-
-[**MEGA Seminar 2023**](https://samf.nemtilmeld.dk/84/), Department of Anthropology, University of Copenhagen, Sønderborg, August 2023 \
-*Collaborating on 'Good' Data in a Competitive Research Environment* in the panel "Good data / Data for good?"
-  
-
-<br/>
+%### Upcoming
+%--------
+%<br/>
 
 ### Organized Panels and Roundtables
 --------
+**Umstrittenes Wissen/ Contested Knowledge: Ethnologische Perspektiven**, Conference of the German Anthropological Association, Munich, July 2023 \
+Roundtable *Trading Safety for Knowledge? Perspectives on Risks and Well-being in Fieldwork* with [The Safer Fieldwork Project](https://saferfieldworkproject.de) 
+
 [**Anthropology, AI and the Future of Human Society**](https://therai.org.uk/conferences/anthropology-ai-and-the-future-of-human-society/), Conference of the Royal Anthropological Institute, online, June 2022 \
 Panel *Addressing the Humans behind AI and Robotics*
 
@@ -30,6 +25,8 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 
 ### Presentations at Conferences
 --------
+[**MEGA Seminar 2023**](https://samf.nemtilmeld.dk/84/), Department of Anthropology, University of Copenhagen, Sønderborg, August 2023 \
+*Collaborating on 'Good' Data in a Competitive Research Environment* in the panel "Good data / Data for good?"
 
 **Promovierendenforum der Studienstiftung des Deutschen Volkes**, Berlin, April 2023 \
 *Künstliche Wesen. Konzepte von Natur und Kultur in Narrativen rund um KI und humanoide Robotik*
