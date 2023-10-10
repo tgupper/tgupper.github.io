@@ -21,11 +21,11 @@ E-Mail: tamara.gupper@posteo.de
 
 1.1 We are pleased that you are visiting our website and thank you for your interest. On the following pages, we inform you about the handling of your personal data when using our website. Personal data is all data with which you can be personally identified.
 
-1.2 The controller in charge of data processing on this website, within the meaning of the General Data Protection Regulation (GDPR), is Tamara Gupper, Tamara Gupper, c/o Grosch Postflex #2198 Emsdettener Str. 10, 48268 Greven, Deutschland, E-Mail: tamara.gupper@posteo.de. The controller in charge of the processing of personal data is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data.
+1.2 The controller in charge of data processing on this website, within the meaning of the General Data Protection Regulation (GDPR), is Tamara Gupper, Tamara Gupper, c/o Postflex #2198 Emsdettener Str. 10, 48268 Greven, Deutschland, E-Mail: tamara.gupper@posteo.de. The controller in charge of the processing of personal data is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data.
 
 1.3 This website uses SSL or TLS encryption for security reasons and to protect the transmission of personal data and other confidential content (e.g. orders or inquiries to the controller). You can recognize an encrypted connection by the character string https:// and the lock symbol in your browser line.
 
-2) Data Collection When You Visit Our Website
+1) Data Collection When You Visit Our Website
 
 When using our website for information only, i.e. if you do not register or otherwise provide us with information, we only collect data that your browser transmits to our server (so-called “server log files”). When you visit our website, we collect the following data that is technically necessary for us to display the website to you:
 
