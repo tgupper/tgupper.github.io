@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Conferences & Talks
+## Panels, Presentations and Talks
 --------
 
 

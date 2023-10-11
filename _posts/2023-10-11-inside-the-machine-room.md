@@ -7,7 +7,7 @@ tags: []
 
 I recently visited the exhibition “Machine Room of the Gods - How Our Future Was Invented” at the [Liebieghaus Museum](https://www.liebieghaus.de/en) in Frankfurt am Main. The museum specializes in sculptures, and the exhibition shows three main aspects through them: that a Eurocentric science history is insufficient if we want to describe humanity’s technological progress, that humans have imagined future technologies since (at least) antiquity, and that technology and art are often interlinked (Brinkmann 2023b, 17). 
 
-In relation to my PhD project, I especially found the exhibition’s discussion of the last two points fascinating. Seeing exhibits that show that myths from, for example, Ancient Greece already included imaginaries of technologies we still encounter in modern science fiction was definitely a highlight for me. Having read Adrienne Mayor’s (2018) book “Gods and Robots. Myths, Machines and Ancient Dreams of Technology” before, I was very happy to see she also contributed to the exhibition’s publication summarizing some of her insights on AI and robotics in ancient mythology (Mayor 2023).
+In relation to my PhD project, I especially found the exhibition’s discussion of the last two points fascinating. Seeing exhibits that show that myths from, for example, Ancient Greece already included imaginaries of technologies we still encounter in modern science fiction was definitely a highlight for me. For example, you can see a depiction of Prometheus tied to a mountain with an eagle eating his liver every day as punishment for giving humans the technology of fire. According to the Argonautika, the eagle was crafted by Hephaistos, the God of metalworking, and was machine-like with the feathers on its wings resembling the oars of a ship (Mayor 2023: 66). In other words, this myth is about an eagle-shaped autonomous drone which flies to and from a mountain in regular intervals to terrorize poor Prometheus.
 
 I also found it fascinating to see how some ancient technological objects aimed at predicting aspects of humans’ physical surroundings also referred to the cultural context in which they were made. The [Antikythera](https://www.liebieghaus.de/sites/default/files/styles/gallery-xxl/public/gallery/lh_presse_tony_freeth_rek.jpg?itok=8UwFMiLO), for example, not only quite accurately computed and predicted the position of the Sun, the Moon, and the five planets known in Ancient Greece in the first century BC (Pinotsis 2007, 217–18) but also when the Olympic games would take place (K. Efstathiou and M. Efstathiou 2018, 31). This object is, by the way, also the artifact that Indiana Jones is looking for in the latest movie (Mangold 2023). If this motivates you to try and find the Antikythera as well: The original is in the National Archaeological Museum in Athens, but if Frankfurt is closer to you, the exhibition in Liebieghaus shows a fascinating video detailing the different parts that were revealed in scans of the object.
 
@@ -21,8 +21,6 @@ Brinkmann, Vinzenz. 2023b. “Wie unsere Zukunft erfunden wurde: Eine Einführun
 Efstathiou, Kyriakos, and Marianna Efstathiou. 2018. “Celestial Gearbox.” Mechanical Engineering 140 (09): 31–35. 
 
 Mangold, James. 2023. Indiana Jones and the Dial of Destiny. 
-
-Mayor, Adrienne. 2018. Gods and Robots: Myths, Machines and Ancient Dreams of Technology. Princeton, Oxford: Princeton University Press. 
 
 Mayor, Adrienne. 2023. “Das Imaginieren von Automaten in der Antike: Mythische Vordenker.” In Brinkmann 2023a, 63–76. 
 

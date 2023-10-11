@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Imprint
+## Imprint and Data Protection Declaration
 --------
 **Imprint**
 
@@ -14,7 +14,7 @@ Keine Pakete oder Päckchen – Annahme wird verweigert!
 
 E-Mail: tamara.gupper@posteo.de
 
-
+This imprint is also valid for my social media accounts.
 
 **Data Protection Declaration** \
 1) Information on the Collection of Personal Data and Contact Details of the Controller
