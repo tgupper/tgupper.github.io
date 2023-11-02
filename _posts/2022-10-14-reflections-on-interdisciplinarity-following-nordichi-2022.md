@@ -5,7 +5,7 @@ categories: [general]
 tags: []
 ---
     
-This week I attended [NordiCHI](https://conferences.au.dk/nordichi2022/) in Aarhus, my first in-person conference in human-computer interaction (HCI). I found it very interesting to see how this research community approaches similar questions from different perspectives, and want to make use of some of my observations there to reflect upon interdisciplinarity in this blog post.
+This week I attended [NordiCHI](https://conferences.au.dk/nordichi2022/){:target="_blank" rel="noopener"} in Aarhus, my first in-person conference in human-computer interaction (HCI). I found it very interesting to see how this research community approaches similar questions from different perspectives, and want to make use of some of my observations there to reflect upon interdisciplinarity in this blog post.
 
 Very generally, I believe that disciplinary boundaries are there to be overcome. There are surely historical, political, institutional and research-tradition-related reasons for disciplines to be and remain separate from each other. However, when looking at specific phenomena, I believe that a plurality of perspectives can only be beneficial, if only to surface contradictions, tensions, or differences of opinions.
 

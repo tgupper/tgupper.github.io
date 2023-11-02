@@ -7,20 +7,20 @@ layout: default
 
 ### Conference Proceedings (peer-reviewed)
 --------
-Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible: Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork.” In Nordic Human-Computer Interaction Conference. New York, NY, USA: ACM. 1–9. DOI: [10.1145/3546155.3546674](https://doi.org/10.1145/3546155.3546674)
+Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible: Reflections on Team Communication Flows in Digitally Mediated Ethnographic Fieldwork.” In Nordic Human-Computer Interaction Conference. New York, NY, USA: ACM. 1–9. DOI: [10.1145/3546155.3546674](https://doi.org/10.1145/3546155.3546674){:target="_blank" rel="noopener"}
 
 
 <br/>
 
 ### Academic Blog Posts
 --------
-Bosbach, Christina, Tamara Gupper, Saskia Jaschek, Kira Kreft, Artemis Saleh, and Laura Thurmann. 2023. “Trading Safety for Knowledge? Perspectives on Risks and Well-Being in Fieldwork.” Boasblogs. [https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/](https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/).
+Bosbach, Christina, Tamara Gupper, Saskia Jaschek, Kira Kreft, Artemis Saleh, and Laura Thurmann. 2023. “Trading Safety for Knowledge? Perspectives on Risks and Well-Being in Fieldwork.” Boasblogs. [https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/](https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/){:target="_blank" rel="noopener"}.
 
 <br/>
 
 ### Master Thesis
 --------
-Gupper, Tamara. 2021. "'Technology of Freedom' or 'Technology of Inequality'? Smartphones, Activism, and the Digital Divide in Senegal." Frankfurt am Main: Universitätsbibliothek Johann Christian Senckenberg. DOI: [10.21248/gups.62582](https://doi.org/10.21248/gups.62582).
+Gupper, Tamara. 2021. "'Technology of Freedom' or 'Technology of Inequality'? Smartphones, Activism, and the Digital Divide in Senegal." Frankfurt am Main: Universitätsbibliothek Johann Christian Senckenberg. DOI: [10.21248/gups.62582](https://doi.org/10.21248/gups.62582){:target="_blank" rel="noopener"}.
 
 
 <br/>
@@ -34,7 +34,7 @@ Gupper, Tamara. 2019. “Islamism Online: The Use of Social Media by Radical Isl
 ### Conflict Research Reports
 --------
 
-at [Heidelberg Institute for International Conflict Research (HIIK)](https://hiik.de/), all Conflict Barometers can be downloaded [here](https://hiik.de/konfliktbarometer/bisherige-ausgaben/).
+at [Heidelberg Institute for International Conflict Research (HIIK)](https://hiik.de/){:target="_blank" rel="noopener"}, all Conflict Barometers can be downloaded [here](https://hiik.de/konfliktbarometer/bisherige-ausgaben/){:target="_blank" rel="noopener"}.
 
 
 #### 2022 

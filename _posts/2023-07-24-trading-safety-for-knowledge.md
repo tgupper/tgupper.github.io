@@ -6,7 +6,7 @@ tags: []
 ---
     
 
-As co-leader of [The Safer Fieldwork Project](https://saferfieldworkproject.de), I will be moderating a roundtable on risks and well-being in fieldwork at the [Conference of the German Anthropological Association](https://tagung.dgska.de/) this Thursday (July 27th). Together with the speakers, we wrote an article with first impressions of what we want to discuss there, so have a look at our [publication on boasblogs]( https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/) if you are interested to learn more. 
+As co-leader of [The Safer Fieldwork Project](https://saferfieldworkproject.de){:target="_blank" rel="noopener"}, I will be moderating a roundtable on risks and well-being in fieldwork at the [Conference of the German Anthropological Association](https://tagung.dgska.de/){:target="_blank" rel="noopener"} this Thursday (July 27th). Together with the speakers, we wrote an article with first impressions of what we want to discuss there, so have a look at our [publication on boasblogs]( https://boasblogs.org/de/contestedknowledge/trading-safety-for-knowledge/){:target="_blank" rel="noopener"} if you are interested to learn more. 
 
 Raising awareness of the importance of fieldwork safety is incredibly meaningful to me. At The Safer Fieldwork Project, we argue that researcher safety should be considered an integral part of research preparation and practice throughout the project (see the position paper of The Safer Fieldwork Project, forthcoming). We argue that this is beneficial for the researcher themselves, as well as for their project.
 
