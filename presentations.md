@@ -6,10 +6,13 @@ layout: default
 --------
 
 
-<!---### Upcoming
+### Upcoming
 --------
+**Lecture Series of the Linz School of Education**, Linz, Austria, 15.03.2024
+*Learning to Program Humanoid Robots*
+
 <br/>
---->
+
 
 ### Organized Panels and Roundtables
 --------
