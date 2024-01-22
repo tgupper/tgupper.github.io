@@ -10,7 +10,7 @@ For my PhD project, I conduct ethnographic research among a team of computer sci
 
 I am also a co-founder of [The Safer Fieldwork Project](https://saferfieldworkproject.de){:target="_blank" rel="noopener"}, a member of the [Code Ethnography Collective](https://codeethnographycollective-ceco.github.io/){:target="_blank" rel="noopener"} and a huge fan of generative art.
 
-I am also a member of the following expert associations: [Deutsche Gesellschaft für Sozial- und Kulturanthropologie (DGKSA)](https://www.dgska.de/), [Gesellschaft für Informatik](https://gi.de/), [European Association of Social Anthropologists (EASA)](https://www.easaonline.org/), [European Association for the Study of Science and Technology (EASST)](https://easst.net/).
+I am a member of the following expert associations: [Deutsche Gesellschaft für Sozial- und Kulturanthropologie (DGKSA)](https://www.dgska.de/), [Gesellschaft für Informatik](https://gi.de/), [European Association of Social Anthropologists (EASA)](https://www.easaonline.org/), [European Association for the Study of Science and Technology (EASST)](https://easst.net/).
 
 Check out the other pages of my website for more detailled information! 
 Or send me an [email](mailto:tamara.gupper@posteo.de){:target="_blank" rel="noopener"} if you have any further questions.
