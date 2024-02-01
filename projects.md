@@ -6,7 +6,7 @@ layout: default
 --------
 
 ### Ph.D. Project, Anthropology of Science and Technology
-The project I currently work on most extensively is my Ph.D. on the programming processes through which software for humanoid robots is written. If you want to know more about that, have a look at my [research page](https://tamaragupper.de/research){:target="_blank" rel="noopener"}.
+The project I currently work on most extensively is my Ph.D. on the programming processes through which software for humanoid robots is written. If you want to know more about that, have a look at my [research page](https://tamaragupper.de/research).
 
 ### Studying Computer Science
 I started studying computer science in the spring of 2020. Because my Ph.D. project explores a topic located in computer science from an anthropological point of view, learning about the theoretical, mathematical, and practical foundations of this discipline has been incredibly useful to understand my research field. 
