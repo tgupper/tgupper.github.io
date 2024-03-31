@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Tamara Gupper
+plugins:
+ - jekyll-paginate
+permalink: pretty
+markdown: kramdown
+paginate: 3
+paginate_path: "/blog/:num/"
+date_format: "%b %-d, %Y"

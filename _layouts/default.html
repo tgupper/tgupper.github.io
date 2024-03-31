@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" property="og:title" content="Tamara Gupper" />
+    <meta name="image" property="og:image" content="{% if page.title and page.ogimage %}{{ page.ogimage }}{% else %}/assets/img/new-og-image.jpg{% endif %}" />
+    <meta name="type" property="og:type" content="website" />
+    <meta name="url" property="og:url" content="https://tamaragupper.de/" />
+    <meta name="description" property="og:description" content="Welcome to my website!" />
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        <img class="profile-image" src="{{ "/assets/img/profile_new.jpg" }}" alt="Profile" />
+        <h1>Tamara Gupper</h1>
+        <p class="view">PhD Researcher in Social and Cultural Anthropology | Computer Scientist in the making | Humanoid Robotics and AI | she/her</p>
+
+        <div class="flex-list">
+          <ul>
+              <li><a href="/">About</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/research">Research</a></li>
+              <li><a href="/projects">Projects</a></li>
+              <li><a href="/publications">Publications</a></li>
+              <li><a href="/presentations">Panels, Presentations and Talks</a></li>
+              <li><a href="/contact">Contact</a></li>
+              <li><a href="/imprint">Imprint and Data Protection</a></li>
+
+          </ul>
+        </div>
+
+        <div class="footer">
+          <a href="https://twitter.com/tamara_gupper"><img class="social-icon" src="{{ "/assets/img/twitter.svg" }}" alt="Logo" /></a>
+          <a href="https://scholar.social/@tgupper"><img class="social-icon" src="{{ "/assets/img/mastodon.svg" }}" alt="Logo" /></a>
+          <a href="https://bsky.app/profile/tgupper.bsky.social"><img class="social-icon" src="{{ "/assets/img/bluesky.svg" }}" alt="Logo" /></a>
+          <a href="https://de.linkedin.com/in/tamara-gupper"><img class="social-icon" src="{{ "/assets/img/linkedin.svg" }}" alt="Logo" /></a>
+          <a href="https://www.researchgate.net/profile/Tamara-Gupper"><img class="social-icon" src="{{ "/assets/img/researchgate.svg" }}" alt="Logo" /></a>
+          <!---<a href="https://orcid.org/0000-0002-6829-2076"><img class="social-icon" src="{{ "/assets/img/orcid.svg" }}" alt="Logo" /></a> --->
+          <a href="https://github.com/tgupper"><img class="social-icon" src="{{ "/assets/img/github.svg" }}" alt="Logo" /></a>
+          <p><small> Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </div>
+
+      </header>
+
+      <section>
+
+      {{ content }}
+
+      </section>
+
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
