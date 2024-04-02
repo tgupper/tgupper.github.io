@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Website Relaunch!"
-ogimage: assets/img/screenshot-website-relaunch.jpg
+ogimage: /assets/img/screenshot-website-relaunch.jpg
 categories: [general]
 tags: []
 ---
