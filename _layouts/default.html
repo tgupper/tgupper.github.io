@@ -7,7 +7,7 @@
     <meta name="title" property="og:title" content="Tamara Gupper" />
     <meta name="image" property="og:image" content="{% if page.title and page.ogimage %}{{ page.ogimage }}{% else %}/assets/img/new-og-image.jpg{% endif %}" />
     <meta name="type" property="og:type" content="website" />
-    <meta name="url" property="og:url" content="https://tamaragupper.de/" />
+    <meta name="url" property="og:url" content="{% if page.title and page.ogurl %}{{ page.ogurl }}{% else %}https://tamaragupper.de/{% endif %}" />
     <meta name="description" property="og:description" content="Welcome to my website!" />
     <meta name="author" content="Tamara Gupper">
 

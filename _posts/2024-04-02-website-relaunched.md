@@ -2,6 +2,7 @@
 layout: post
 title: "Website Relaunch!"
 ogimage: /assets/img/screenshot-website-relaunch.jpg
+ogurl: https://tamaragupper.de/general/2024/04/02/website-relaunched/
 categories: [general]
 tags: []
 ---
