@@ -5,13 +5,6 @@ layout: default
 ## Contact
 --------
 
-Tamara Gupper
-
-Goethe University Frankfurt \
-Department of Social & Cultural Anthropology \
-Frankfurt am Main  
-Germany  
-
 tamara.gupper[at]posteo.de  
 tamaragupper.de
 
