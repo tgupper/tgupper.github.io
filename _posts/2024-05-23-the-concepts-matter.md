@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Concepts Matter. Or: Reflections on the Pre-Conference Workshop of the Conference “Imaginations of Autonomy”"
+title: "The Concepts Matter. \ Or: Reflections on “Imaginations of Autonomy”"
 ogimage: /assets/img/the-concepts-matter.jpg
 ogurl: https://tamaragupper.de/general/2024/05/23/the-concepts-matter/
 categories: [general]
