@@ -33,7 +33,7 @@ Panel *The Impact of Mobile Technologies on Social Structures in Africa*, with D
 **Promovierendenforum der Studienstiftung des Deutschen Volkes**, Bad Honnef, April 2024 \
 Poster Presentation *The Safer Fieldwork Project*
 
-[**MEGA Seminar 2023**](https://samf.nemtilmeld.dk/84/){:target="_blank" rel="noopener"}, Department of Anthropology, University of Copenhagen, Sønderborg, August 2023 \
+[**MEGA Seminar 2023**](https://cas.au.dk/om-instituttet/afdelinger/antropologi/forskning/mega-seminar){:target="_blank" rel="noopener"}, Department of Anthropology, University of Copenhagen, Sønderborg, August 2023 \
 *Collaborating on 'Good' Data in a Competitive Research Environment* in the panel "Good data / Data for good?"
 
 **Promovierendenforum der Studienstiftung des Deutschen Volkes**, Berlin, April 2023 \
