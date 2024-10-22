@@ -6,13 +6,17 @@ layout: default
 --------
 
 
-<!--- ### Upcoming
+### Upcoming
 --------
 
+[**Afrika-Kolloquium**](https://www.uni-frankfurt.de/154133023/Kolloquien), Department for Social and Cultural Anthropology, Goethe University Frankfurt am Main, 14.11.2024 \
+Materielle Kultur im Roboterfußball - Wie humanoide Objekte zu Fußballspieler*innen werden
 
+Kolloquium des [Fachgebiets Arbeit, Inklusion und Technologie](https://ait.reha.tu-dortmund.de/), Technische Universtität Dortmund, 19.11.2024 \
+Humanoid Robots on the Soccer Field - The Relations between Humans and "Autonomous" Technologies
 <br/>
 
---->
+
 
 ### Organized Panels and Roundtables
 --------
