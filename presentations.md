@@ -14,6 +14,7 @@ Materielle Kultur im Roboterfußball - Wie humanoide Objekte zu Fußballspieler*
 
 Kolloquium des [Fachgebiets Arbeit, Inklusion und Technologie](https://ait.reha.tu-dortmund.de/), Technische Universtität Dortmund, 19.11.2024 \
 Humanoid Robots on the Soccer Field - The Relations between Humans and "Autonomous" Technologies
+
 <br/>
 
 
