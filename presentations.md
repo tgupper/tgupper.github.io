@@ -5,19 +5,17 @@ layout: default
 ## Panels, Presentations and Talks
 --------
 
-
+<!---
 ### Upcoming
 --------
 
-[**Afrika-Kolloquium**](https://www.uni-frankfurt.de/154133023/Kolloquien), Department for Social and Cultural Anthropology, Goethe University Frankfurt am Main, 14.11.2024 \
-Materielle Kultur im Roboterfußball - Wie humanoide Objekte zu Fußballspieler*innen werden
 
-**Kolloquium des [Fachgebiets Arbeit, Inklusion und Technologie](https://ait.reha.tu-dortmund.de/)**, Technische Universtität Dortmund, 19.11.2024 \
-Humanoid Robots on the Soccer Field - The Relations between Humans and "Autonomous" Technologies
+
+
 
 <br/>
 
-
+--->
 
 ### Organized Panels and Roundtables
 --------
@@ -77,6 +75,13 @@ Poster Presentation *The Safer Fieldwork Project*
 
 ### Invited Talks and Guest Lectures
 --------
+
+**Kolloquium des [Fachgebiets Arbeit, Inklusion und Technologie](https://ait.reha.tu-dortmund.de/){:target="_blank" rel="noopener"}**, Technische Universtität Dortmund, 19.11.2024 \
+Humanoid Robots on the Soccer Field - The Relations between Humans and "Autonomous" Technologies
+
+[**Afrika-Kolloquium**](https://www.uni-frankfurt.de/154133023/Kolloquien){:target="_blank" rel="noopener"}, Department for Social and Cultural Anthropology, Goethe University Frankfurt am Main, 14.11.2024 \
+Materielle Kultur im Roboterfußball - Wie humanoide Objekte zu Fußballspieler*innen werden
+
 [**Lecture at the PhD Theory Course of the Linz School of Education**](https://www.jku.at/linz-school-of-education/){:target="_blank" rel="noopener"}, Linz, Austria, March 2024 \
 *Learning to Program Humanoid Robots*
 
