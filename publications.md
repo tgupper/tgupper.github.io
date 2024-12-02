@@ -16,7 +16,7 @@ Gupper, Tamara, and Frauke Mörike. 2022. “Visible - Uncertain - Invisible: Re
 
 ### Manifesto
 --------
-Gupper, Tamara, and Laura Thurmann. 2023: "A Manifesto for Safer Fieldwork". Version 1.0. The Safer Fieldwork Project. Source: [www.saferfieldworkproject.de/manifesto/](https://saferfieldworkproject.de/manifesto/){:target="_blank" rel="noopener"}.
+Gupper, Tamara, and Laura Thurmann. 2023: "A Manifesto for Safer Fieldwork". Version 1.0. The Safer Fieldwork Project. [www.saferfieldworkproject.de/manifesto/](https://saferfieldworkproject.de/manifesto/){:target="_blank" rel="noopener"}.
 
 
 <br/>
