@@ -6,14 +6,13 @@ layout: default
 --------
 
 ### Ph.D. Project, Anthropology of Science and Technology
-The project I currently work on most extensively is my Ph.D. on the programming processes through which software for humanoid robots is written. If you want to know more about that, have a look at my [research page](https://tamaragupper.de/research).
-
-### Studying Computer Science
-I started studying computer science in the spring of 2020. Because my Ph.D. project explores a topic located in computer science from an anthropological point of view, learning about the theoretical, mathematical, and practical foundations of this discipline has been incredibly useful to understand my research field. 
-Additionally, learning something completely different from the things I had engaged in studying cultural anthropology has been inspiring for me. I have discovered my passion for mathematics and theoretical computer science. I am also particularly interested in the intersections between hardware and software, such as process control or memory allocation.
+The project I currently work on most extensively is my dissertation on how social, material and conceptual aspects influence software development in the field of robotics. If you want to know more about that, have a look at my [research page](https://tamaragupper.de/research).
 
 ### The Safer Fieldwork Project
-In May 2021, two colleagues and I co-founded an initiative on safety in (ethnographic) fieldwork that I am very passionate about. We have held workshops on the topic at several universities for participants at very different stages of their careers and with varying disciplinary backgrounds. In July 2023, we will also hold a roundtable at the Conference of the [German Anthropological Association]( https://www.dgska.de/){:target="_blank" rel="noopener"}. For more information, have a look at the [Safer Fieldwork Project website](https://saferfieldworkproject.de){:target="_blank" rel="noopener"}.
+I am a co-founder of the Safer Fieldwork Project, an initiative in which we contribute to interdisciplinary debates on fieldwork methodology, and hold workshops which provide researchers at various steps of their career with practical tools to make their fieldwork safer. I am very passionate about this work because I believe that a wider discussion around researcher safety can significantly improve our approach to fieldwork. For more information, have a look at the [Safer Fieldwork Project website](https://saferfieldworkproject.de){:target="_blank" rel="noopener"}.
+
+### Studying Computer Science
+I started studying computer science in the spring of 2020 out of curiosity. This decision has both brought me to robot soccer, the research field of my PhD project, and immensely helped me understand what I observed there. Studying computer science has also been very interesting on a personal level, because it differs quite a bit from social and cultural anthropology in both what I learn, and how I learn it. Also, being able to program and use computers in a more advanced fashion has enabled me to do fun things, such as programming robots in my PhD project, self-hosting a platform to collaborate in the Safer Fieldwork Project, or making [generative art]{https://tamaragupper.de/general/2022/05/25/generated-spectrum/}.
 
 ### Master Thesis: “Technology of Freedom” or “Technology of Inequality”
 I completed my master thesis in September 2020 and published it roughly a year later at the Universitätsbibliothek Johann Christian Senckenberg (you can find it in my [publications](https://tamaragupper.de/publications){:target="_blank" rel="noopener"}). It is based on three-month ethnographic fieldwork in Dakar, Senegal, and explores the ways activists use their smartphones for their activist engagement and how that influences and is influenced by pre-existing inequalities. 

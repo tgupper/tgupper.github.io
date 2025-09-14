@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Research
+## Current Research
 --------
 
 ### Making Robots Play Soccer
-#### On the Materialization of Social Processes, Concepts, and Human-Technology Relations in Software
+#### On the Materialization of Concepts in Technologies
 
-For my PhD project, I conducted ethnographic and autoethnographic research on how software for humanoid robots is written. I joined a team of computer scientists who programmed such robots to play soccer as an ethnographer and an active member who contributed to the team’s activities, including programming. Through this research, I aimed to find out how the programming processes and the software that is their result are influenced by social aspects, by concepts of robots and artificial intelligence, and by the technological objects the computer scientists interacted with.
+In my dissertation, I explore how social, material and conceptual aspects influence software development in the field of robotics. I conducted my research with a team of computer scientists who programmed humanoid robots to play soccer.  My research approach is both ethnographic and autoethnographic, as I joined the team as a member and contributed to their software, particularly in the field of computer vision.
 
 #### Keywords: 
-Anthropology of Science and Technology, Material Culture, Lab Studies, Humanoid Robotics, Artificial Intelligence
+Anthropology of Science and Technology, Material Culture, Feminist STS, Humanoid Robotics, Artificial Intelligence
