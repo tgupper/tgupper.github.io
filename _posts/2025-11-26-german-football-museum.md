@@ -1,0 +1,25 @@
+---
+layout: post
+title: "My visit to the German Football Museum"
+ogimage: /assets/img/football.jpg
+ogurl: https://tamaragupper.de/general/2025/11/26/german-football-museum/
+categories: [general]
+tags: []
+---
+
+I just got back from giving a block seminar on digital inequalities and ethnographic research methods at TU Dortmund. Since I was in town, I took the opportunity to visit the (German Football Museum)(https://www.fussballmuseum.de/en/start){:target="_blank" rel="noopener"}!
+
+The museum is hard to miss - it stands out prominently right as you leave Dortmund’s main train station. I arrived just before the final entry time, and had only one hour to explore the museum, which was not much, but enough to see most of the exhibits I was interested in. 
+
+What truly stood out to me was the atmosphere that was created inside the museum, and how the lighting and sound effects portrayed soccer as something almost magical. As you pass the entrance gate, for example, you ride a narrow escalator with murals of fans wearing fan jerseys and soccer scarves of well-known German clubs at both sides, accompanied by sounds of cheering. It really made me feel as if I was in the stadium, as if I was surrounded by cheering fans, and as if I was one of them.
+
+The first exhibit I encountered pays tribute to the team that won the 1954 men’s World Cup, featuring life-sized images of the players and several exhibits related to the event, with the sound of the original radio commentary. I had just arrived there after my ride on the escalator, and I still felt as if my favorite club was about to play - a feeling that this first exhibit picked up perfectly. The glorification of the players, the way in which objects from that event were neatly presented in display cases, and the emotional commentary in the background made me feel as if I was reliving a moment of huge historical value as a fan of this team - which, honestly, I don’t consider myself to be. I still find it impressive how the museum built up the atmosphere for me to be truly touched by this victory from more than 70 years ago. But, I cannot help but ask myself: Are there no other exhibits that represent German Football better than pictures of eleven men in a semi-circle, looking at the visitors as they enter the exhibition?
+
+The (women’s soccer section)(https://www.fussballmuseum.de/museum/ausstellung/frauenfussball){:target="_blank" rel="noopener"} was where I spent most of my time. There were a lot of exhibits I found interesting, such as a poster advertising the first known match between two women’s teams, held in Hornsey, north of London, on March 23rd, 1895. Or an edition of the Frankfurter Illustrierte from March 27, 1930, with a title story on the foundation of the first club for women’s soccer in Germany. While the section on women’s soccer was in the middle of the exhibition room, and most visitors probably passed either through or right next to it,  it felt somewhat isolated from the rest of the exhibition. It reminded me a bit of the “notable women” sections in my school textbooks - the authors had made an effort to mention them at the end of each chapter, but the main text, the one that was important to read, featured almost exclusively men. This is what I felt the role of the women’s soccer section in this museum to be, too - important to mention, but more of a side-topic. As a fan of German women’s soccer, I was both really happy to see some of the exhibits there, and learn more about the history of the sport, and a little sad that women’s soccer was not treated equally to men’s.
+
+The women’s soccer section also featured a large display case showcasing the trophies won by Germany’s women’s national team - though notably, some trophies were missing. This caught my attention, and I found out that these trophies had recently been relocated downstairs to the museum’s (“treasury,”)(https://www.fussballmuseum.de/museum/ausstellung/schatzkammer){:target="_blank" rel="noopener"} a dark room with several well-lit glass display cases arranged in neat lines, each showcasing one trophy won by the national teams. The treasury was another space in which the atmosphere truly touched me, and made me feel that those trophies in the display cases were incredibly valuable objects. This is why I find it all the better that at least some of the women’s trophies have also found their way there now.
+
+However, one thing was missing completely from the exhibition, the one type of soccer I spend most of my time with - robot soccer! Should anyone at the German Football Museum ever read this - feel free to reach out, I would love to work with you on including that!
+
+(Open graph image from <a href="https://unsplash.com/de/@wesleyphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wesley Tingey</a> on <a href="https://unsplash.com/de/fotos/weisser-und-schwarzer-fussball-auf-rasenplatz-dKCKiC0BQtU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>)
+      
