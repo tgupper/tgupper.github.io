@@ -5,17 +5,18 @@ layout: default
 ## Panels, Presentations and Talks
 --------
 
-<!---
+
 ### Upcoming
 --------
 
-
+[**Maintenance and Philosophy of Technology (Special Interest Group)**](https://www.spt.org/sigs/maintenance_and_philosophy_of_technology/){:target="_blank" rel="noopener"}, 13.08.2026, online \
+*Care and Maintenance in Making Humanoid Robots Play Soccer*
 
 
 
 <br/>
 
---->
+
 
 ### Organized Panels and Roundtables
 --------
